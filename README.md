@@ -179,7 +179,7 @@ parking-system-erd
 │
 ├── README.md
 ├── parking-erd.txt
-└── diagram.png
+└── diagram.svg
 ```
 
 ---
