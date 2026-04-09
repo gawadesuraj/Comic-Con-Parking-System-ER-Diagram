@@ -1,4 +1,4 @@
-# Comic-Con Multi-Zone Parking System — ER Diagram
+# Comic-Con Multi-Zone Parking System - ER Diagram
 
 ## Overview
 
